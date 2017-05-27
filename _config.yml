@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "ALEX DOES A THING"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://alextakahashi.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Alex Takahashi"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Just some punk kid who may or may not be good at computers"
+  location         : "Berkeley, CA"
   email            :
   uri              :
   bitbucket        :
@@ -89,16 +89,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "alextakahashi"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "alextacosushi"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  steam            : "thefunctionalgamer"
   tumblr           :
   twitter          :
   vine             :
@@ -241,6 +241,24 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true 
       share: true
       related: true
+      breadcrumbs: true  # disabled by default
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+include: ["_pages"]
