@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Health & Fitness"
-    url: /health-fitness/
+  - title: "Portfolio"
+    url: /_portfolio/foo-bar-website/
+  - title: "Lifting Guide"
+    url: /_fit/foo-bar-website/
   - title: "Travel"
     url: /travel/
   - title: "Picture Archive"
@@ -12,44 +14,43 @@ main:
     url: /sitemap/
 
 # sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+fit:
+  - title: "Lifting: A Preface"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
+      - title: "Lifting is Better Than Pizza"
+        url: /docs/quick-start-guide/
+      - title: "Mindset & Attitude"
+        url: /docs/structure/
+      - title: "Safety and Injury"
+        url: /docs/installation/
+
+  - title: "Form & Technique"
     children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
+      - title: "Most Bang for your Buck: Good Form"
+        url: /docs/configuration/
+      - title: "Compound Lifts"
+        url: /docs/navigation/
+      - title: "Accessory Exercises"
+        url: /docs/ui-text/
+
+  - title: "Routines"
     children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
+      - title: ""
+        url: /docs/posts/
+      - title: "Back & Bicep"
+        url: /docs/pages/
+      - title: "Chest & Tricep"
+        url: /docs/collections/
+      - title: "Legs & Shoulders"
+        url: /docs/helpers/
+      - title: "Weekly Routines"
+        url: /docs/helpers/
+
+  - title: "Appendix"
     children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
+      - title: "Recommended Lifts"
+        url: /docs/stylesheets/
+      - title: "Fave Bodybuilders"
+        url: /docs/javascript/
+      - title: "Glossary"
+        url: /docs/javascript/

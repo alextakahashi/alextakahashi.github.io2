@@ -20,7 +20,7 @@ gallery:
 
 ## Totally Radical, Absolutely Astounding, and Interesting Facts About Alex
 
-  * Alex will arbitrarily become an adult after he graduates UC Berkeley in May 2017.
+  * Alex will arbitrarily become an adult after he graduates UC Berkeley in May 2017.  UPDATE: He has graduated.
   * He will receive a B.S. in Bioengineering and instead of pursuing graduate school like his more talented BioE counterparts he will instead bang his head on his keyboard as a Code Monkey.  (JK Software Engineering is hard as hell, and Alex secretly loves it)
   * He received the Most Stressed Award not once, but twice at his high school.  Subsequently, Alex became even more stressed.
   * If you haven’t met him yet, don’t be alarmed.  The excessive CAPITALIZATION isn’t “necessarily” him yelling.  Many people have drawn parallels with Alex and the Student Athlete Meme.

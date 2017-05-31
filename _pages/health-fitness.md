@@ -1,7 +1,7 @@
 ---
 title: "Health & Fitness"
 layout: splash
-permalink: /health-fitness/
+permalink: /_fit/health-fitness/
 date: 2016-02-24T03:02:20+00:00
 
 gallery:
@@ -11,6 +11,10 @@ gallery:
   - url: /assets/images/lands_end_courtney.jpg
     image_path: /assets/images/lands_end_courtney.jpg
     title: "Sibling Pic, With the little sister"
+
+tag:
+- fit
+
 ---
 # #FitLyfe
 
