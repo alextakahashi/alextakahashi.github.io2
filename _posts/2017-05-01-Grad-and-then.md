@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/cal_hair_pull.jpg
-  cta_label: "Download"
+  cta_label: "Take Me Seriously Here"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: **Ashley Kim**"
 excerpt: "Alex lives to tell the tale of UC Berkeley.  Some call them survivors, others call them 'Berkeley Engineering Alumni'"
