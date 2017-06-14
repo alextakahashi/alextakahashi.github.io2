@@ -1,7 +1,7 @@
 ---
 title: "Grad and Then..."
 layout: splash
-permalink: /splash-page/
+permalink: /Grad_and_Then/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/squad.jpg
     title: "An Extended Fam"
     excerpt: "Wine, Cheese, & Adventures! Lots of parties, food outings, and birthday celebrations with this crowd!"
-feature_row2:
+Boba_Guys:
   - image_path: /assets/images/Team_Japan_Graduates.jpg
     alt: "placeholder image 1"
     title: "Team Japan Graduates!"
@@ -42,7 +42,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "This is me and I graduated"
     excerpt: 'Who else could this possibly be?  It is me showcasing me and the arbitrary achievement of becoming an adult by graduating college!'
-feature_row4:
+Bi_Rite:
   - image_path: /assets/images/alex_grad_pose.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
@@ -76,7 +76,7 @@ Berkely is hard, friends make it better!  These are some of my closest friends; 
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="Boba_Guys" type="left" %}
 
 # Me, but 4 Years Later and Not as Dorky (?)
 Yeah, I definitely wasn't the same person coming into college as the person coming out of college.  Things I have noticed about myself in comparison to my high school self:
