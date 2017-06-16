@@ -4,14 +4,14 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /_portfolio/foo-bar-website/
-  - title: "Lifting Guide"
-    url: /_fit/foo-bar-website/
-  - title: "Travel"
-    url: /travel/
-  - title: "Picture Archive"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Lifting Guide"
+  #   url: /_fit/foo-bar-website/
+  # - title: "Travel"
+  #   url: /travel/
+  # - title: "Picture Archive"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
 # sidebar navigation list sample
 fit:
